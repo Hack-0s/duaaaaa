@@ -6,215 +6,215 @@ logo=http://www.vernonhills.org/images/pages/N688/Scam-Alert.png stream=https://
 #EXTINF:0, *Property of cCloudTV.ORG* (Top10) (US) (English)
 logo=http://media.comicbook.com/2015/09/baneposter2-by-sysmatic-149962.jpg stream=https://archive.org/download/cCloud_20151126/cCloud.mp4 cat=Top10
 
-#EXTINF:0, Welcome to cCloudTV.ORG (Updated 09-09-2017 23:15:41 EST-US) the future of IPTV. (Announcement) (US) (English)
+#EXTINF:0, Welcome to cCloudTV.ORG (Updated 09-10-2017 00:15:38 EST-US) the future of IPTV. (Announcement) (US) (English)
 logo=http://s30.postimg.org/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg stream=https://archive.org/download/cCloud_20151126/cCloud.mp4 cat=Announcement
 
 #EXTINF:0, A&E cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/OOENI42.jpg stream=http://144.217.68.106/live/UTDkGkk126f9p_nkf57ENg/1505023669/ce425ca32dea0f37b22717ae989bcffb.m3u8 cat=Top10
+logo=http://i.imgur.com/OOENI42.jpg stream=http://149.56.27.145/live/48mUf3c3KbScx1F0KMdOCg/1505027008/ce425ca32dea0f37b22717ae989bcffb.m3u8 cat=Top10
 
 #EXTINF:0, A&E (Entertainment) (US) (English)
-logo=http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg stream=http://144.217.68.106/live/Y9v9eCWAGobs_Ia85DM8lA/1505023648/ce425ca32dea0f37b22717ae989bcffb.m3u8 cat=Entertainment
+logo=http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg stream=http://144.217.68.106/live/aEde0lzq_GP82uEMPCBlag/1505027122/ce425ca32dea0f37b22717ae989bcffb.m3u8 cat=Entertainment
 
 #EXTINF:0, ABC (News) (US) (English)
-logo=http://cimg.tvgcdn.net/i/r/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/resize/350x240/8132c2a3755be511de99cf2556676fde/150506-logo-abc-hp-lg.jpg stream=http://149.56.27.145/live/6duA6BnLkW1pHX97EQag5g/1505023641/ba354149f3c117ceb69529a1542b6281.m3u8 cat=News
+logo=http://cimg.tvgcdn.net/i/r/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/resize/350x240/8132c2a3755be511de99cf2556676fde/150506-logo-abc-hp-lg.jpg stream=http://149.56.27.145/live/wmp_xKCZXOQjIO35oD5fHA/1505027116/ba354149f3c117ceb69529a1542b6281.m3u8 cat=News
 
 #EXTINF:0, AMC cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/PJ3OW4C.png stream=http://144.217.68.106/live/qYLi-n7XbjGG_VVl9uir_Q/1505023670/c0371e35a2b3244f5edda7947172d954.m3u8 cat=Top10
+logo=http://i.imgur.com/PJ3OW4C.png stream=http://149.56.27.145/live/cwa9XR-lLxbBrT5EeXRAbg/1505027009/c0371e35a2b3244f5edda7947172d954.m3u8 cat=Top10
 
 #EXTINF:0, AMC (Entertainment) (US) (English)
-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png stream=http://144.217.68.106/live/9dhZQEbVnf9yQi_m2oDVaQ/1505023649/c0371e35a2b3244f5edda7947172d954.m3u8 cat=Entertainment
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png stream=http://144.217.68.106/live/vXPii7RoeaSff0tmNh1eoQ/1505027124/c0371e35a2b3244f5edda7947172d954.m3u8 cat=Entertainment
 
 #EXTINF:0, Action Movies (RandomAirTime 24/7) (US) (English)
-logo=http://www.iconsdb.com/icons/preview/caribbean-blue/action-xxl.png stream=http://149.56.27.145/live/EuAGsEQq_ighC_2SDFT9Pg/1505023679/90ce2364e02379b96643fe4d0f2d7c25.m3u8 cat=RandomAirTime 24/7
+logo=http://www.iconsdb.com/icons/preview/caribbean-blue/action-xxl.png stream=http://149.56.27.145/live/SU4VJoJY561XbJ-x_fmlXQ/1505027018/90ce2364e02379b96643fe4d0f2d7c25.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Adult Swim (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/ad.png stream=http://144.217.68.106/live/VpVkMOURA9kOO-PY_Zg9xQ/1505023680/539125fdf85ba9fc38e2550c3c838e4d.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/ad.png stream=http://144.217.68.106/live/EozkMXLQuu8egG8BUTCn0A/1505027019/539125fdf85ba9fc38e2550c3c838e4d.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Adventure Time (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/tumblr_nmixkmD0tk1r7oy5so2_500.jpg stream=http://144.217.68.106/live/YyetzDqUiqwoEt8iXrNCyQ/1505023681/7d0db380a5b95a8ba1da0bca241abda1.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/tumblr_nmixkmD0tk1r7oy5so2_500.jpg stream=http://149.56.27.145/live/bSpwVlyrMTQr_xL9pHoHXw/1505027020/7d0db380a5b95a8ba1da0bca241abda1.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Always Sunny In Philadelphia (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/10.png stream=http://149.56.27.145/live/ytlQuZq9n_pkWRIoSKqdyw/1505023682/f970e2767d0cfe75876ea857f92e319b.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/10.png stream=http://149.56.27.145/live/oJmnpPPZeZs5ZnM_FwQw2A/1505027021/f970e2767d0cfe75876ea857f92e319b.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, American Dad (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/3.png stream=http://149.56.27.145/live/m3Hr-MZM2HY5SAQYfo1V4Q/1505023685/523af537946b79c4f8369ed39ba78605.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/3.png stream=http://144.217.68.106/live/EDRbdYVruh_wJqrEyRfbgw/1505027023/523af537946b79c4f8369ed39ba78605.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, American Horror Story (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/Mjwkazv.jpg stream=http://149.56.27.145/live/ADEwk1DsyZqp1pk1J9ZJMg/1505023684/9473408d814743efc7c203eb79782f8b.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/Mjwkazv.jpg stream=http://149.56.27.145/live/6hGodL3uTFejECKAS-R2rg/1505027022/9473408d814743efc7c203eb79782f8b.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Animal Planet (Documentary) (US) (English)
-logo=https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Animal_Planet_Canada_Logo.PNG/200px-Animal_Planet_Canada_Logo.PNG stream=http://144.217.68.106/live/drg1GYMUsizBOHVZc2RPbg/1505023645/a0f8ddb8c8251a68f136648b32c0f62d.m3u8 cat=Documentary
+logo=https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Animal_Planet_Canada_Logo.PNG/200px-Animal_Planet_Canada_Logo.PNG stream=http://144.217.68.106/live/fU5-SyIRfYoB25i6KOUjjA/1505027119/a0f8ddb8c8251a68f136648b32c0f62d.m3u8 cat=Documentary
 
 #EXTINF:0, Animated Movies (RandomAirTime 24/7) (US) (English)
-logo=http://img03.deviantart.net/5b48/i/2006/047/8/2/animated_movie_logo_by_mikemedia.jpg stream=http://144.217.68.106/live/1IvEFQQAX5h2MQJgfml5Ag/1505023687/7e18e745bf13ed4e73c5e612599b4cf5.m3u8 cat=RandomAirTime 24/7
+logo=http://img03.deviantart.net/5b48/i/2006/047/8/2/animated_movie_logo_by_mikemedia.jpg stream=http://149.56.27.145/live/EFOSA2Dl61S3QXgSI0DwxQ/1505027026/7e18e745bf13ed4e73c5e612599b4cf5.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Anime Channel (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/09/anime-cover-page.png stream=http://144.217.68.106/live/5tgoIH8VuCOro8IEuXevaA/1505023686/d4fda09f200a7fcb0c05ad251b18d380.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/09/anime-cover-page.png stream=http://144.217.68.106/live/3ltoPZdZ5JE5u464Fd9D8g/1505027025/d4fda09f200a7fcb0c05ad251b18d380.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Archer (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/4.png stream=http://149.56.27.145/live/jCnmffbK9yVLSXID3-LRUw/1505023688/4124bc0a9335c27f086f24ba207a4912.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/4.png stream=http://144.217.68.106/live/gIkU0PRE-Ppu7qo6wz9PXA/1505027027/4124bc0a9335c27f086f24ba207a4912.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Arrested Development (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/uSreK0u.jpg stream=http://144.217.68.106/live/L1X13aI_nBD3DtU0gY3e8Q/1505023690/f8b497df140e06c897e44cd2a79fd305.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/uSreK0u.jpg stream=http://149.56.27.145/live/v-06YX9pXuv_ESnSZT5Atw/1505027028/f8b497df140e06c897e44cd2a79fd305.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Avatar: The Last Air Bender%2C and The Legend of Korra (Beavis and Butthead Mike Judge) (US) (English)
-logo=http://i3.kym-cdn.com/photos/images/original/000/513/723/936.jpg stream=http://149.56.27.145/live/wTpGxks7NFACPWl82fwnqg/1505023691/fcea6bfa2ba6ec8e6278b9003da42b0c.m3u8 cat=Beavis and Butthead Mike Judge
+logo=http://i3.kym-cdn.com/photos/images/original/000/513/723/936.jpg stream=http://149.56.27.145/live/TueOibuolaI7F8f9TToUaA/1505027029/fcea6bfa2ba6ec8e6278b9003da42b0c.m3u8 cat=Beavis and Butthead Mike Judge
 
 #EXTINF:0, Batman 1966 TV (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/184053/p184053_b_v8_ad.jpg stream=http://144.217.68.106/live/SwUOfa5t6CYPnxIChQh3BA/1505023693/2c26054f8ae1cee38e89b1983bbf1c63.m3u8 cat=RandomAirTime 24/7
+logo=http://www.gstatic.com/tv/thumb/tvbanners/184053/p184053_b_v8_ad.jpg stream=http://149.56.27.145/live/FH_2i-ajOgit4vXFsJg5_g/1505027031/2c26054f8ae1cee38e89b1983bbf1c63.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Battlestar Galactica (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/DbZqQCI.jpg stream=http://149.56.27.145/live/weBIXDF7SK4lCOAoI2CWOg/1505023692/7585390460dc9ef5a38e1d8056c013b1.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/DbZqQCI.jpg stream=http://144.217.68.106/live/UdVMUuuEk8IqeoRGBIzVow/1505027030/7585390460dc9ef5a38e1d8056c013b1.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Beavis and Butthead Mike Judge (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/183882/p183882_b_v8_ah.jpg stream=http://149.56.27.145/live/LRj5GdSnb9C27xVZg2DjGQ/1505023699/d61aab1489b27a5cffd192451d68f8b2.m3u8 cat=RandomAirTime 24/7
+logo=http://www.gstatic.com/tv/thumb/tvbanners/183882/p183882_b_v8_ah.jpg stream=http://149.56.27.145/live/5-1Bxmngnf8UoHc5BgocFg/1505027037/d61aab1489b27a5cffd192451d68f8b2.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Better Call Saul (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/5.png stream=http://144.217.68.106/live/KLAIXfJ4gpKq7zAOv-ToBA/1505023694/5360af35bde9ebd8f01f492dc059593c.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/5.png stream=http://149.56.27.145/live/3vKTTvaYT9wxTId-vqVlYg/1505027033/5360af35bde9ebd8f01f492dc059593c.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Blacklist (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/12995016/p12995016_b_v8_aa.jpg stream=http://149.56.27.145/live/nDq6MXbMAu2qyKbJKAVsgg/1505023697/a0bc9791616492b14e330a7e0ef35512.m3u8 cat=RandomAirTime 24/7
+logo=http://www.gstatic.com/tv/thumb/tvbanners/12995016/p12995016_b_v8_aa.jpg stream=http://149.56.27.145/live/uYVTg3cJ8XQRaPuC8Jefdw/1505027035/a0bc9791616492b14e330a7e0ef35512.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Blue Bloods (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/1mh0q0e.jpg stream=http://149.56.27.145/live/vG0ZUsKFs_xVBqoUuU_z1w/1505023698/9ccb6d939dd20822476e4467a81bede6.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/1mh0q0e.jpg stream=http://149.56.27.145/live/NDD02VuuDHWsPXmdJkaOvg/1505027036/9ccb6d939dd20822476e4467a81bede6.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Bobs Burgers (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/6.png stream=http://149.56.27.145/live/3gaNZdUylSEWhb8ImABtFg/1505023696/21ad0bd836b90d08f4cf640b4c298e7c.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/6.png stream=http://144.217.68.106/live/uQJ6CIhUfW4A1tTiGcVL_A/1505027034/21ad0bd836b90d08f4cf640b4c298e7c.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Bones (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/AN3IJC0.jpg stream=http://144.217.68.106/live/IXuYGWVVlXF6ra93bNcPHA/1505023703/775f172869d40d605be241a5070b0afa.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/AN3IJC0.jpg stream=http://149.56.27.145/live/0e4EU-1C7v74tlSn4JTHNw/1505027040/775f172869d40d605be241a5070b0afa.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Box Nation (Sports) (UK) (English)
 logo=https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNation2014Logo.png/100px-BoxNation2014Logo.png stream=http://149.56.27.145/live/rm4DFeUSF8K__R21AvoEtQ/1499605064/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8 cat=Sports
 
 #EXTINF:0, BravoTv (Entertainment) (US) (English)
-logo=https://lh3.googleusercontent.com/-YQVw8uRNszw/AAAAAAAAAAI/AAAAAAAAXX8/4P4EQkgSdFM/s0-c-k-no-ns/photo.jpg stream=http://149.56.27.145/live/80anyQZscJaSxR3Rde9GQw/1505023651/582b19f3ef5459a2f139ec69ee2053d0.m3u8 cat=Entertainment
+logo=https://lh3.googleusercontent.com/-YQVw8uRNszw/AAAAAAAAAAI/AAAAAAAAXX8/4P4EQkgSdFM/s0-c-k-no-ns/photo.jpg stream=http://149.56.27.145/live/yL8dv7WsJoQRKdeNkN1zUg/1505027125/582b19f3ef5459a2f139ec69ee2053d0.m3u8 cat=Entertainment
 
 #EXTINF:0, Breaking Bad (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/BJhLsnk.jpg stream=http://149.56.27.145/live/Ne2_9ef1F2RsAtHzCWfw0Q/1505023702/8df117ec818106efa6490b2a8ad02ee4.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/BJhLsnk.jpg stream=http://149.56.27.145/live/28O_2n2cES-vg3bb913XOA/1505027038/8df117ec818106efa6490b2a8ad02ee4.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, CBN Sports (Sports) (CA) (English)
 logo=http://sim04.in.com/dc4a3899b2a2929e5078d2d0e5826462_t.jpg stream=http://149.56.27.145/live/XQS5G8CDcm4wMVsUMURjpQ/1499285728/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
 
 #EXTINF:0, CBS (Entertainment) (US) (English)
-logo=https://lh6.googleusercontent.com/-qqKuc6JO_do/AAAAAAAAAAI/AAAAAAAADxg/jYgTrJPFvy8/s0-c-k-no-ns/photo.jpg stream=http://149.56.27.145/live/9bZw9v79K9YdnyQFsORy0g/1505023652/4d0fadca2686a2cdd4a4a6623212449c.m3u8 cat=Entertainment
+logo=https://lh6.googleusercontent.com/-qqKuc6JO_do/AAAAAAAAAAI/AAAAAAAADxg/jYgTrJPFvy8/s0-c-k-no-ns/photo.jpg stream=http://149.56.27.145/live/BdmrKUhh-hi0YlphBuf9XQ/1505027126/4d0fadca2686a2cdd4a4a6623212449c.m3u8 cat=Entertainment
 
 #EXTINF:0, CNBC (News) (US) (English)
-logo=https://lh5.googleusercontent.com/-lhJTvOaoUoo/AAAAAAAAAAI/AAAAAAABQ6o/Ajrj3FnD2zU/s0-c-k-no-ns/photo.jpg stream=http://149.56.27.145/live/QcFGbW4AizxxYwCaV1Re4Q/1505023642/0fa1864db527d3de89020cb06a050b35.m3u8 cat=News
+logo=https://lh5.googleusercontent.com/-lhJTvOaoUoo/AAAAAAAAAAI/AAAAAAABQ6o/Ajrj3FnD2zU/s0-c-k-no-ns/photo.jpg stream=http://149.56.27.145/live/ewz0fkkl2S7JtZzh0zOTiA/1505027117/0fa1864db527d3de89020cb06a050b35.m3u8 cat=News
 
 #EXTINF:0, Cartoon Network (Family) (US) (English)
 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png stream=http://144.217.68.106/live/DfnGlCsoK11e7GTvtmaHBQ/1495135047/720933e62452d65671c676a065c18192.m3u8 cat=Family
 
 #EXTINF:0, Celebrity Deathmatch (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/celebrity.jpg stream=http://144.217.68.106/live/gMEY1wgEDj7oIvF_QmNf0A/1505023704/161747ec4dc9f55f1760195593742232.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/celebrity.jpg stream=http://144.217.68.106/live/Lm-5tNDpKAjv05VVLfjJNg/1505027041/161747ec4dc9f55f1760195593742232.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Christmas movies (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/KO4dno2.jpg stream=http://149.56.27.145/live/tkdySbC2MU-ajx8JFZ4oPw/1505023705/17d6b59f16d493db84234ade495c6ce6.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/KO4dno2.jpg stream=http://149.56.27.145/live/l4TRuoSO0GhHlQ-xLIzJJg/1505027042/17d6b59f16d493db84234ade495c6ce6.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Classic Toons (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/14.png stream=http://144.217.68.106/live/75MXsf8Rwc3Z3P_DToPcKA/1505023707/d91af6958918af87d6a057c1cdf5b225.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/14.png stream=http://149.56.27.145/live/Il59cActF7bKgXQcmBbVkA/1505027043/d91af6958918af87d6a057c1cdf5b225.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Comedy Central cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/P5WktnH.gif stream=http://149.56.27.145/live/7nO1TYvxpYe1DiJkjy7BXA/1505023672/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8 cat=Top10
+logo=http://i.imgur.com/P5WktnH.gif stream=http://149.56.27.145/live/7uXYzYTvEsXxqRkGZSnvJA/1505027011/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8 cat=Top10
 
 #EXTINF:0, Comedy Central (Family) (US) (English)
-logo=http://1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif stream=http://149.56.27.145/live/_spJjOgjZFNO4hZdkx56wg/1505023659/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8 cat=Family
+logo=http://1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif stream=http://144.217.68.106/live/McGp1n3pj0OkqOtcj6eOEg/1505027133/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8 cat=Family
 
 #EXTINF:0, Comedy Movies (RandomAirTime 24/7) (US) (English)
-logo=http://www.iconsplace.com/icons/preview/orange/comedy-256.png stream=http://144.217.68.106/live/EFC80cdMs9M3N7VbfUo4Fw/1505023708/6fd04bc5b53697040f6f43a3c96d7658.m3u8 cat=RandomAirTime 24/7
+logo=http://www.iconsplace.com/icons/preview/orange/comedy-256.png stream=http://149.56.27.145/live/ZZqnW-Uc3Z4Uc-vij5S8cA/1505027044/6fd04bc5b53697040f6f43a3c96d7658.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Community (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/7.png stream=http://149.56.27.145/live/MaNMAfBk1cacc6yVcT83fQ/1505023709/820eb5b696ea2a657c0db1e258dc7d81.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/7.png stream=http://149.56.27.145/live/h5iOLg0ETOM7d_eo9z32UA/1505027045/820eb5b696ea2a657c0db1e258dc7d81.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Cops (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/XiKF2Kf.jpg stream=http://144.217.68.106/live/Uu80Uy4AtMWkus-zUSIxug/1505023710/b9c73e563c9be2c9830b3920a7f5d3a3.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/XiKF2Kf.jpg stream=http://149.56.27.145/live/Yce3mZrjLJAJknR0ac7BSQ/1505027046/b9c73e563c9be2c9830b3920a7f5d3a3.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Curb your Enthusiasm (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/curb-your.jpg stream=http://144.217.68.106/live/nTMMyfT7RBuSB-8iLTjUSQ/1505023711/9b5394fd929896fb9e90e26b3d18e63d.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/curb-your.jpg stream=http://149.56.27.145/live/HKUluGN8f4F6g3lEPTrJIg/1505027047/9b5394fd929896fb9e90e26b3d18e63d.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Discovery Channel cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/Y8HHddy.jpg stream=http://149.56.27.145/live/-njgPy33JnRtO8irj67rfg/1505023673/075d66993151c178df1ed9840202d983.m3u8 cat=Top10
+logo=http://i.imgur.com/Y8HHddy.jpg stream=http://149.56.27.145/live/wuGMcR94C-zh8SrnemdeOg/1505027012/075d66993151c178df1ed9840202d983.m3u8 cat=Top10
 
 #EXTINF:0, Discovery Channel (Documentary) (US) (English)
-logo=http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg stream=http://149.56.27.145/live/XEUsl3Pxft4ekBaTeJVqvQ/1505023646/075d66993151c178df1ed9840202d983.m3u8 cat=Documentary
+logo=http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg stream=http://149.56.27.145/live/3JBBFy-AjfaLwzi4sWMnLg/1505027120/075d66993151c178df1ed9840202d983.m3u8 cat=Documentary
 
 #EXTINF:0, Doctor Who (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2016/04/doctor-who.jpg stream=http://144.217.68.106/live/_YCTVUHKflmu6RH__Iawgw/1505023712/c0e67c407905103dbce3984c756f3f21.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2016/04/doctor-who.jpg stream=http://149.56.27.145/live/wX6NQYBVTzdY9YL9VvhrLQ/1505027048/c0e67c407905103dbce3984c756f3f21.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Documentary movies (RandomAirTime 24/7) (US) (English)
-logo=http://www.enterthemoviezone.com/uploads/1/2/5/2/12525217/8364703_orig.jpg stream=http://149.56.27.145/live/JK-KnqXnRv6eIrM-pb_WDg/1505023714/993ce9ee723cef89c679b7a55e42472a.m3u8 cat=RandomAirTime 24/7
+logo=http://www.enterthemoviezone.com/uploads/1/2/5/2/12525217/8364703_orig.jpg stream=http://149.56.27.145/live/m-nrSRiUgt2n2fWwZWrVeQ/1505027049/993ce9ee723cef89c679b7a55e42472a.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Downton Abbey (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/KxtJwcq.jpg stream=http://149.56.27.145/live/grwtmt50oEplXQPcMVUbIA/1505023716/9c474e19272a393afd49ad65dfdd124d.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/KxtJwcq.jpg stream=http://144.217.68.106/live/B3HeN7xiwV75RLhbjn90TA/1505027052/9c474e19272a393afd49ad65dfdd124d.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Dragonball Z (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/dragonballz.jpg stream=http://144.217.68.106/live/Yhy4SThKGsI-2utFZaSTww/1505023715/0de7b6a61a70688b26e6eeb3113531a3.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/dragonballz.jpg stream=http://149.56.27.145/live/ynb6eTLwjLJsgJy9m-cNrw/1505027051/0de7b6a61a70688b26e6eeb3113531a3.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, ESPN cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/tOnK7Bv.jpg stream=http://149.56.27.145/live/w1cBquD7uKGcJfxR0vc5gw/1505023674/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Top10
+logo=http://i.imgur.com/tOnK7Bv.jpg stream=http://144.217.68.106/live/dE2JiIkIYnk_j--gTydsjg/1505027013/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Top10
 
 #EXTINF:0, ESPN (Sports) (US) (English)
-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png stream=http://144.217.68.106/live/0qqvG5T4ok7_W1AUbnIwQw/1505023665/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png stream=http://144.217.68.106/live/iC2oIEjsdDyfEDpHJTqnUA/1505027139/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
 
 #EXTINF:0, FOX (Entertainment) (US) (English)
-logo=http://i.imgur.com/15rP8l3.png stream=http://144.217.68.106/live/oCyu6-cwd98_u3xQAMSNuA/1505023653/c2f52b70c2324ba134b2cba2962bedae.m3u8 cat=Entertainment
+logo=http://i.imgur.com/15rP8l3.png stream=http://149.56.27.145/live/aVvy6RKBlneR0j6zkOmUUQ/1505027127/c2f52b70c2324ba134b2cba2962bedae.m3u8 cat=Entertainment
 
 #EXTINF:0, FX (Entertainment) (US) (English)
-logo=http://www.polyvore.com/cgi/img-thing%3F.out%3Djpg%26size%3Dl%26tid%3D66497051 stream=http://144.217.68.106/live/RaFfWpQLVes_2satQht_wQ/1505023654/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8 cat=Entertainment
+logo=http://www.polyvore.com/cgi/img-thing%3F.out%3Djpg%26size%3Dl%26tid%3D66497051 stream=http://144.217.68.106/live/rDpdntHBhG1oHq4yUvjP1g/1505027128/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8 cat=Entertainment
 
 #EXTINF:0, Family Guy (RandomAirTime 24/7) (US) (English)
-logo=http://s.sidereel.com/tv_shows/42681/giant_2x/family-guy.jpg stream=http://149.56.27.145/live/sZ_-oVNp-yEtOcNopc3Ryw/1505023717/3d4044d65abdda407a92991f1300ec97.m3u8 cat=RandomAirTime 24/7
+logo=http://s.sidereel.com/tv_shows/42681/giant_2x/family-guy.jpg stream=http://149.56.27.145/live/A_Bvz67FWHI1C4XTEIA9Zg/1505027053/3d4044d65abdda407a92991f1300ec97.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Fawlty Towers (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/aMLX3in.jpg stream=http://144.217.68.106/live/Cbcu0A4U03HOnEdWtEGzhg/1505023722/28f20a02bf8a021fab4fcec48afb584e.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/aMLX3in.jpg stream=http://144.217.68.106/live/hc9srJCQorK0RWaTFgX0rw/1505027057/28f20a02bf8a021fab4fcec48afb584e.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Fox News (News) (US) (English)
-logo=http://cdn.newsbusters.org/images/fnclogolarge.jpg stream=http://149.56.27.145/live/6lTg_5_mocqYSBZEoGHQ2Q/1505023643/877e1fd192b3a58577e4387971c215a7.m3u8 cat=News
+logo=http://cdn.newsbusters.org/images/fnclogolarge.jpg stream=http://149.56.27.145/live/jgEcb7QpaYEBEGPG_nWIVQ/1505027118/877e1fd192b3a58577e4387971c215a7.m3u8 cat=News
 
 #EXTINF:0, Frasier (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2016/02/frasier.jpg stream=http://149.56.27.145/live/1rFJhBwIfQEWmrD5Ge-31Q/1505023720/c485bb561918025e75545506984d363c.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2016/02/frasier.jpg stream=http://144.217.68.106/live/xoKUW5mRuIoMS1HqGzBmBQ/1505027055/c485bb561918025e75545506984d363c.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Cartoon Network cCloudTV.ORG (Top10) (US) (English)
-logo=http://cdn1.edgedatg.com/aws/assets/cp/web/freeform/images/freeform_logo.png stream=http://149.56.27.145/live/jBBexqZW3Sf5ULke-xIQnA/1505023671/654bc354612eeefee71cd611b175730c.m3u8 cat=Top10
+logo=http://cdn1.edgedatg.com/aws/assets/cp/web/freeform/images/freeform_logo.png stream=http://149.56.27.145/live/j7gTOLjO2z5ZE6Ydr1AtSw/1505027010/654bc354612eeefee71cd611b175730c.m3u8 cat=Top10
 
 #EXTINF:0, Fresh Prince of Bel Air (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/fresh-prince-2.jpg stream=http://149.56.27.145/live/hxI843lGrzijHVivyy-mzA/1505023721/0666f0acdeed38d4cd9084ade1739498.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/fresh-prince-2.jpg stream=http://149.56.27.145/live/2xRk2ty3N7HehXUj9Ssdnw/1505027056/0666f0acdeed38d4cd9084ade1739498.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Friends (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/Friends-ShowcardVertical1.jpg stream=http://149.56.27.145/live/v80dl9ZhLykkWjxpHt2EtA/1505023719/28f20a02bf8a021fab4fcec48afb584e.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/Friends-ShowcardVertical1.jpg stream=http://144.217.68.106/live/IRMtJqkPDBHJPV4G6c2C9A/1505027054/28f20a02bf8a021fab4fcec48afb584e.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Futurama (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/9.png stream=http://149.56.27.145/live/2sMf0vS3-r6MWPjV2lzK_g/1505023725/89e6d2b383471fc370d828e552c19e65.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/9.png stream=http://144.217.68.106/live/ETdtkJsaOWlUIVt3y6_C3Q/1505027059/89e6d2b383471fc370d828e552c19e65.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Fx (Movie Channels) (US) (English)
-logo=https://upload.wikimedia.org/wikipedia/en/c/c7/FX_Italia_logo.svg stream=http://149.56.27.145/live/3j4QsKBxms-8FHdlzUc0Zg/1505023667/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8 cat=Movie Channels
+logo=https://upload.wikimedia.org/wikipedia/en/c/c7/FX_Italia_logo.svg stream=http://149.56.27.145/live/MEHaSd2O6I0Z2s0Q8fNQ2Q/1505027140/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8 cat=Movie Channels
 
 #EXTINF:0, Game of Thrones (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/game-off-thrones.jpg stream=http://149.56.27.145/live/zjmgXteAfFHceKw2g4gHqQ/1505023723/4a1a27296188c273f6733ead4fe4eff6.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/game-off-thrones.jpg stream=http://149.56.27.145/live/it0BPKNS6FdwIIzZXllVuQ/1505027058/4a1a27296188c273f6733ead4fe4eff6.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Harry Potter and Lord of the Rings (RandomAirTime 24/7) (US) (English)
-logo=http://media.tumblr.com/tumblr_lo6ii0yE4d1qe4z6e.jpg stream=http://144.217.68.106/live/2_0KkCJLEd_OK2UDUGvSfw/1505023726/cba19b64326f3f317a6af74844d32d17.m3u8 cat=RandomAirTime 24/7
+logo=http://media.tumblr.com/tumblr_lo6ii0yE4d1qe4z6e.jpg stream=http://149.56.27.145/live/wlPdv2FTdCNjkCs447HhVA/1505027060/cba19b64326f3f317a6af74844d32d17.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, History cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/qsbJRlP.png stream=http://149.56.27.145/live/Pvt6-k11MYqA0RJ1YdQARw/1505023675/a0f8ddb8c8251a68f136648b32c0f62d.m3u8 cat=Top10
+logo=http://i.imgur.com/qsbJRlP.png stream=http://144.217.68.106/live/4cmuWu2v_ErFNvhKkZZ_Fg/1505027014/a0f8ddb8c8251a68f136648b32c0f62d.m3u8 cat=Top10
 
 #EXTINF:0, History (Documentary) (US) (English)
 logo=http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png stream=http://149.56.27.145/live/g9SaIKsWTolDLCXfOfFVKA/1499605006/075d66993151c178df1ed9840202d983.m3u8 cat=Documentary
 
 #EXTINF:0, Home Improvement (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/183934/p183934_b_v8_ad.jpg stream=http://149.56.27.145/live/OEb8qiGWQgsQ0t6WxOM1Pg/1505023727/b5ee54bba2ae28a03173618f93df9835.m3u8 cat=RandomAirTime 24/7
+logo=http://www.gstatic.com/tv/thumb/tvbanners/183934/p183934_b_v8_ad.jpg stream=http://149.56.27.145/live/Q9oIeFoWIugYwMqiKt-tDw/1505027061/b5ee54bba2ae28a03173618f93df9835.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Horror Movies (RandomAirTime 24/7) (US) (English)
-logo=https://iconstore.co/wp-content/uploads/2015/12/horror-thumb.png stream=http://149.56.27.145/live/Cf0lbeeoKIVJ86Ju2hdE4g/1505023729/377feb82d0b63676a18f18f152f6c721.m3u8 cat=RandomAirTime 24/7
+logo=https://iconstore.co/wp-content/uploads/2015/12/horror-thumb.png stream=http://144.217.68.106/live/OdI78jALtsF8SU0Cp8T6IA/1505027062/377feb82d0b63676a18f18f152f6c721.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, I love Lucy (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/I-love-lucy.jpg stream=http://149.56.27.145/live/fm0nhhzzHOjfmJsFNw77fA/1505023730/67eea2632a01c967653555f98cb84b36.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/I-love-lucy.jpg stream=http://144.217.68.106/live/wMKU7NcJP-Tt48J7PM0x4w/1505027063/67eea2632a01c967653555f98cb84b36.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Invader Zim (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/12.png stream=http://144.217.68.106/live/fsZywc1ObPqU_vna72F2zw/1505023731/018d4d19ee6a779b041a625a60df0e2c.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/12.png stream=http://144.217.68.106/live/0UnFuNapB0vxOCP856dsFQ/1505027066/018d4d19ee6a779b041a625a60df0e2c.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, King of the Hill (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/13.png stream=http://149.56.27.145/live/cFRwTpu30doz-DqbSEQxZQ/1505023732/fa46ec0b4924e8c2194a53ef61b94039.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/13.png stream=http://144.217.68.106/live/IhwEYqE3-Stp92KbFVvhYA/1505027068/fa46ec0b4924e8c2194a53ef61b94039.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Lifetime (Entertainment) (US) (English)
 logo=http://i.imgur.com/g1SNX37.png stream=http://144.217.68.106/live/kGP68Jv_ojQWYTMD8b9wAQ/1499605050/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8 cat=Entertainment
@@ -223,106 +223,106 @@ logo=http://i.imgur.com/g1SNX37.png stream=http://144.217.68.106/live/kGP68Jv_oj
 logo=https://upload.wikimedia.org/wikipedia/en/d/de/Former_MUTV_logo_(2).png stream=http://149.56.27.145/live/JBZoHDmnIdnjHH4DZEwKIA/1499605065/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
 
 #EXTINF:0, Mafia Movies (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/xUPaNL9.jpg stream=http://149.56.27.145/live/6JB-KukH8sLXiQAOg6V15A/1505023734/e24cc804755b8bdedb516e1a1739300f.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/xUPaNL9.jpg stream=http://149.56.27.145/live/pYaCvGm1_jNEWGIPC5VYgA/1505027069/e24cc804755b8bdedb516e1a1739300f.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Malcolm in the Middle (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/6unOOiz.jpg stream=http://149.56.27.145/live/DC4XD4j4ghJXnrwSfh4XDQ/1505023736/6897191107b1003196abb2efaf0b1e12.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/6unOOiz.jpg stream=http://144.217.68.106/live/8uCeaXb8Ys9YB_4SYxy8mQ/1505027072/6897191107b1003196abb2efaf0b1e12.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Married with Children (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/0gItpt6.jpg stream=http://144.217.68.106/live/87n4cDFd4vCXP1M9cZ51eA/1505023735/668ada832799cc84747f015346e54eb0.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/0gItpt6.jpg stream=http://149.56.27.145/live/K2U7-GhATWTBNHKEd6dPRg/1505027070/668ada832799cc84747f015346e54eb0.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Modern Family (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/rdmDZhv.jpg stream=http://144.217.68.106/live/NbiwCSa366FqCVMyxs7xGQ/1505023737/d6ee239752e6871291712a3acababfe6.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/rdmDZhv.jpg stream=http://149.56.27.145/live/n-BAHPg7YqEpYqctoXwNuA/1505027073/d6ee239752e6871291712a3acababfe6.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Movies (RandomAirTime 24/7) (US) (English)
 logo=https://www.arconaitv.me/wp-content/uploads/2015/06/16.png stream=http://144.217.68.106/live/A3vuQwXvutcQoEb2gOOf3A/1499604935/d6ee239752e6871291712a3acababfe6.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Mystery Movies (RandomAirTime 24/7) (US) (English)
-logo=https://upload.wikimedia.org/wikipedia/en/0/05/Mystery.png stream=http://144.217.68.106/live/-ps_4-eqV46Aw-M2eNDBTg/1505023739/cd0f46533a7ff32277171001db8ea982.m3u8 cat=RandomAirTime 24/7
+logo=https://upload.wikimedia.org/wikipedia/en/0/05/Mystery.png stream=http://149.56.27.145/live/T72ZcH8_3rHyDVKpZcPg4A/1505027074/cd0f46533a7ff32277171001db8ea982.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, NBC (Entertainment) (US) (English)
-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzZzf9mnzN5HoEjz-LvjC2Vo4tQ6gujC7lMrn9rM-xHpkKsOHzKUWIws8 stream=http://149.56.27.145/live/QnVD6YleRNY5cCyy6VXFJQ/1505023656/3baf7db0d8f1d400816fb6166b297f46.m3u8 cat=Entertainment
+logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzZzf9mnzN5HoEjz-LvjC2Vo4tQ6gujC7lMrn9rM-xHpkKsOHzKUWIws8 stream=http://149.56.27.145/live/t4eP26oHy230idjnCdKpRw/1505027130/3baf7db0d8f1d400816fb6166b297f46.m3u8 cat=Entertainment
 
 #EXTINF:0, Narcos (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/73fkDru.jpg stream=http://149.56.27.145/live/I0caNflIx_gFMlnTjMYj7Q/1505023740/61bf01cfdd60948087f3ea25e8a5939f.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/73fkDru.jpg stream=http://144.217.68.106/live/nf4G3DzgH3J4_pCz2JTe_g/1505027075/61bf01cfdd60948087f3ea25e8a5939f.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, National Geographic Channel cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/DNrlDoW.jpg stream=http://149.56.27.145/live/2xZ2cdY5fnCe3Q8YBy8NQw/1505023676/be2fa358e4f1c9a0ee833aa15f829f81.m3u8 cat=Top10
+logo=http://i.imgur.com/DNrlDoW.jpg stream=http://144.217.68.106/live/6wX_FGhwxnFRUCkt8-EIig/1505027015/be2fa358e4f1c9a0ee833aa15f829f81.m3u8 cat=Top10
 
 #EXTINF:0, National Geographic (Documentary) (US) (English)
-logo=http://famouslogos.net/images/national-geographic-logo.jpg stream=http://144.217.68.106/live/TvfNI7-nDdaYx78CLc7UrA/1505023647/be2fa358e4f1c9a0ee833aa15f829f81.m3u8 cat=Documentary
+logo=http://famouslogos.net/images/national-geographic-logo.jpg stream=http://149.56.27.145/live/5Fex9KpkuKiLPRF2PVnmSA/1505027121/be2fa358e4f1c9a0ee833aa15f829f81.m3u8 cat=Documentary
 
 #EXTINF:0, New Movie Releases (RandomAirTime 24/7) (US) (English)
-logo=http://www.tastingbeers.com/media/tastings/newreleases_logo.jpg stream=http://149.56.27.145/live/oUzdqJl1_ZXFLuzOZUaL0g/1505023741/9a7a05ed6d0e14916923fa226501bd2c.m3u8 cat=RandomAirTime 24/7
+logo=http://www.tastingbeers.com/media/tastings/newreleases_logo.jpg stream=http://149.56.27.145/live/fYZJ1Y_NsOwkywx5WmHquw/1505027076/9a7a05ed6d0e14916923fa226501bd2c.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Nickelodeon cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/IcQhTFE.png stream=http://144.217.68.106/live/jtmAAnY8Y8qNI_ZaR8NqWQ/1505023677/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8 cat=Top10
+logo=http://i.imgur.com/IcQhTFE.png stream=http://149.56.27.145/live/e4Eb1_uFGQM9Um7FM5E7qQ/1505027016/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8 cat=Top10
 
 #EXTINF:0, Nickelodeon (Family) (US) (English)
-logo=http://www.nick.com/nick-assets/common/nick-logo-200x200.png stream=http://144.217.68.106/live/etk1eD662PIyrAncEDffzA/1505023660/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8 cat=Family
+logo=http://www.nick.com/nick-assets/common/nick-logo-200x200.png stream=http://149.56.27.145/live/pNkbwujMbbxLqM7f-gP_Hw/1505027134/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8 cat=Family
 
 #EXTINF:0, PBS (Entertainment) (US) (English)
-logo=https://lh3.googleusercontent.com/-8meSrLqfKbk/AAAAAAAAAAI/AAAAAAAAN90/K6uUKdKQciI/s0-c-k-no-ns/photo.jpg stream=http://144.217.68.106/live/RKMXa13QDrgJY-ISRa8zHA/1505023658/fe22365235b496368609515523bfb971.m3u8 cat=Entertainment
+logo=https://lh3.googleusercontent.com/-8meSrLqfKbk/AAAAAAAAAAI/AAAAAAAAN90/K6uUKdKQciI/s0-c-k-no-ns/photo.jpg stream=http://144.217.68.106/live/11kPEV70jJbwu-6lXaN9nw/1505027132/fe22365235b496368609515523bfb971.m3u8 cat=Entertainment
 
 #EXTINF:0, Prison Break (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/7894205/p7894205_b_v8_aa.jpg stream=http://144.217.68.106/live/YKRP_2z5Eb5D_SAX6kVNnQ/1505023600/36d081b5bcf1efe2bf11e97f45c1155f.m3u8 cat=RandomAirTime 24/7
+logo=http://www.gstatic.com/tv/thumb/tvbanners/7894205/p7894205_b_v8_aa.jpg stream=http://149.56.27.145/live/WZ_mv4vpnu5stIxDwyxjQQ/1505027078/36d081b5bcf1efe2bf11e97f45c1155f.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Random Movies (RandomAirTime 24/7) (US) (English)
-logo=http://icons.iconarchive.com/icons/martz90/circle/512/games-icon.png stream=http://149.56.27.145/live/IsJN3IyAbSihZUkyswPSDQ/1505023742/94d035945b3d82182669c4d3f6daa104.m3u8 cat=RandomAirTime 24/7
+logo=http://icons.iconarchive.com/icons/martz90/circle/512/games-icon.png stream=http://149.56.27.145/live/1ctJsjpUuG8mld1SbpqHyg/1505027077/94d035945b3d82182669c4d3f6daa104.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Random Stream (RandomAirTime 24/7) (US) (English)
-logo=https://cdn.shopify.com/s/files/1/0332/2021/products/randomTDF-06.png?v=1437457415 stream=http://149.56.27.145/live/cV0Y5K90JVSmaw8UhKr3Qw/1505023601/4a1a27296188c273f6733ead4fe4eff6.m3u8 cat=RandomAirTime 24/7
+logo=https://cdn.shopify.com/s/files/1/0332/2021/products/randomTDF-06.png?v=1437457415 stream=http://144.217.68.106/live/-SUjy8RUGeu7HRtTLTgZqA/1505027079/668ada832799cc84747f015346e54eb0.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Regular Show (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/17.jpg stream=http://144.217.68.106/live/dlHCRn9aFkGlSHc8TLuNCg/1505023602/af37d08ae228a87dc6b265fd1019c97d.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/17.jpg stream=http://144.217.68.106/live/NDkqxKdZgDAIRatZCW9GMQ/1505027081/af37d08ae228a87dc6b265fd1019c97d.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Ren and Stimpy (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/Ren-and-Stimpy.jpg stream=http://149.56.27.145/live/UPjVmrAxJeb2jsH3bkrIhQ/1505023603/3a2d7564baee79182ebc7b65084aabd1.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/Ren-and-Stimpy.jpg stream=http://144.217.68.106/live/4NJIeH4u2TbkfzMLDMzDug/1505027082/3a2d7564baee79182ebc7b65084aabd1.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Rick and Morty (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/18.png stream=http://144.217.68.106/live/046TKmzouwcoiYmCXlTB9g/1505023604/d67f249b90615ca158b1258712c3a9fc.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/18.png stream=http://149.56.27.145/live/nrlf4Aaj2NEyZFBaKE_5JQ/1505027083/d67f249b90615ca158b1258712c3a9fc.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Romance films (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/UtvW0Ng.jpg stream=http://149.56.27.145/live/cap7w8la-WP_MlfkWCIdDw/1505023605/3248e60a5820cec655cb031cc2662925.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/UtvW0Ng.jpg stream=http://144.217.68.106/live/R3dnFsPBPZWCE2ohF3lQAQ/1505027084/3248e60a5820cec655cb031cc2662925.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Samurai Jack (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/19.jpg stream=http://149.56.27.145/live/gQF_C-UEohSgHYBJ9yiHcw/1505023607/b5bf27b2555de44e3df2230080db5a1d.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/19.jpg stream=http://149.56.27.145/live/I5yyrz-H9FteDvphpLQMKg/1505027086/b5bf27b2555de44e3df2230080db5a1d.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Scrubs (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/12/scrubs.jpg stream=http://149.56.27.145/live/8kKKU3iqwgIiryYB0PSVww/1505023608/456727ac6d97e749f87ec95009617bd2.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/12/scrubs.jpg stream=http://149.56.27.145/live/SSReyEHeP3qfIdLwX6TsDw/1505027087/456727ac6d97e749f87ec95009617bd2.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Seinfeld (RandomAirTime 24/7) (US) (English)
-logo=http://img.sharetv.com/shows/standard/seinfeld.jpg stream=http://149.56.27.145/live/xAApFbcDEqSaMREtRIcITA/1505023609/af1f8d9839dd6ffefedebab89761ee7e.m3u8 cat=RandomAirTime 24/7
+logo=http://img.sharetv.com/shows/standard/seinfeld.jpg stream=http://149.56.27.145/live/9SXFktinTHJas9m1TyKhnQ/1505027088/af1f8d9839dd6ffefedebab89761ee7e.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Setanta Sports (Sports) (UK) (English)
 logo=http://www.koolpassion.com/tvchannel/logo/logo-SetantaSports.jpg stream=http://144.217.68.106/live/gLQDbgLhgvsBpnajGqUNmg/1499285733/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
 
 #EXTINF:0, Shark Tank (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/12/shark-tank.jpg stream=http://149.56.27.145/live/jZ2-_uZ_I7FIf4yMBcrdog/1505023610/6e5c05d83065de5035a874e9ce581273.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/12/shark-tank.jpg stream=http://149.56.27.145/live/o4v_ncbg4oXgw8-PEfc8zA/1505027089/6e5c05d83065de5035a874e9ce581273.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Silicon Valley (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/DQTWveg.jpg stream=http://144.217.68.106/live/KSGWUuEJgu-tjHjsK3UY9w/1505023612/6bbdfedc377a82e142f58e42b4f0f66e.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/DQTWveg.jpg stream=http://149.56.27.145/live/f-2RE9INohpn_EGXDNODRA/1505027091/6bbdfedc377a82e142f58e42b4f0f66e.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Simpsons (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/22.png stream=http://144.217.68.106/live/M0yHWQ2mMrxLfuiXghztSQ/1505023611/3691308f2a4c2f6983f2880d32e29c84.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/22.png stream=http://144.217.68.106/live/0mBdiorSPNliIEi_yVR1Lw/1505027090/3691308f2a4c2f6983f2880d32e29c84.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, South Park (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/23.png stream=http://149.56.27.145/live/TWRmuzhbVfxEJ0S9UQPbUA/1505023617/1952a01898073d1e561b9b4f2e42cbd7.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/23.png stream=http://149.56.27.145/live/Cgw-5X7aBdmnDd-1roi5EQ/1505027095/1952a01898073d1e561b9b4f2e42cbd7.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Spike TV (Entertainment) (US) (English)
-logo=http://www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg stream=http://149.56.27.145/live/pfp9jrmiIG_8w6t1BgsHcg/1505023655/744a2e6d638ef5996394717e9e871717.m3u8 cat=Entertainment
+logo=http://www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg stream=http://144.217.68.106/live/Ts0aQVvl1L1iWuH_R2_x2w/1505027129/744a2e6d638ef5996394717e9e871717.m3u8 cat=Entertainment
 
 #EXTINF:0, Spike Tv (Family) (US) (English)
-logo=http://www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg stream=http://144.217.68.106/live/AaLjnoZx2nP5W9-YDX-crA/1505023661/744a2e6d638ef5996394717e9e871717.m3u8 cat=Family
+logo=http://www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg stream=http://144.217.68.106/live/ti_clQe4NmwVbKcri5ekLQ/1505027135/744a2e6d638ef5996394717e9e871717.m3u8 cat=Family
 
 #EXTINF:0, SpongeBob SquarePants (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/7k1BfEn.jpg stream=http://149.56.27.145/live/GvFmVA2zTFmCMf2I544ssQ/1505023616/2f2c4b3c9681d732d678ae4094241250.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/7k1BfEn.jpg stream=http://144.217.68.106/live/J7t0igbl1OIQIDKm8gHC7Q/1505027094/2f2c4b3c9681d732d678ae4094241250.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Star Wars & Star Trek (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/naqIHMO.jpg stream=http://149.56.27.145/live/tCVk5qAMB1y6U_MjYFcYYg/1505023613/9a045dead94fad2ceb3c5c808dd964b6.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/naqIHMO.jpg stream=http://149.56.27.145/live/9Bwbtp4HNxkIfQFrxnp63g/1505027092/9a045dead94fad2ceb3c5c808dd964b6.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Studio Ghibli (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/kcxHDHm.jpg stream=http://149.56.27.145/live/yFfwv53U3Ol7X1WgcuP02Q/1505023615/57f1a338fcf6edaa3378c10cd5beefd6.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/kcxHDHm.jpg stream=http://144.217.68.106/live/y3lmrriQgONczIE9gNSetA/1505027093/57f1a338fcf6edaa3378c10cd5beefd6.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, TBS (Movie Channels) (US) (English)
 logo=http://images.bwwstatic.com/tvnetworklogos/13A765B8-A331-1519-878AEB98D39E4CEC.jpg stream=http://149.56.27.145/live/4IL7e1BDZVEDtls8zlDBxQ/1499605067/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8 cat=Movie Channels
@@ -331,52 +331,52 @@ logo=http://images.bwwstatic.com/tvnetworklogos/13A765B8-A331-1519-878AEB98D39E4
 logo=https://lh6.googleusercontent.com/-KQRn15GcpiA/AAAAAAAAAAI/AAAAAAAAC6w/0pfjGi1_EMo/s0-c-k-no-ns/photo.jpg stream=http://144.217.68.106/live/cXI8W8AGqZteYZWAKqjVzw/1499605055/fe22365235b496368609515523bfb971.m3u8 cat=Entertainment
 
 #EXTINF:0, That 70s Show (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/12/70s-show.jpg stream=http://149.56.27.145/live/kcVhTIqAWvsEeNd2rw92dQ/1505023618/10174e112d64ae5e09f8f955865a5993.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/12/70s-show.jpg stream=http://144.217.68.106/live/qMSerZHVlKndqdHosnsT1g/1505027096/10174e112d64ae5e09f8f955865a5993.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Big Bang Theory (RandomAirTime 24/7) (US) (English)
-logo=http://ia.media-imdb.com/images/M/MV5BMjI1Mzc4MDUwNl5BMl5BanBnXkFtZTgwMDAzOTIxMjE%40._V1_SY317_CR20%2C0%2C214%2C317_AL_.jpg stream=http://149.56.27.145/live/P7iCwTQKQyMh7AFafmt5aA/1505023621/d3517d7d92455b3cf3eb3e774acb4406.m3u8 cat=RandomAirTime 24/7
+logo=http://ia.media-imdb.com/images/M/MV5BMjI1Mzc4MDUwNl5BMl5BanBnXkFtZTgwMDAzOTIxMjE%40._V1_SY317_CR20%2C0%2C214%2C317_AL_.jpg stream=http://149.56.27.145/live/WZrE6vA6tAnWZh1v44dx0Q/1505027099/d3517d7d92455b3cf3eb3e774acb4406.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Boondocks (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/rWcBd4d.jpg stream=http://149.56.27.145/live/BuUnSWpMvJWTPpEBEWPPPQ/1505023619/e7093d33e3f0f52bcb7284e45581a3e8.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/rWcBd4d.jpg stream=http://149.56.27.145/live/vIMH9RM_WMe6Pw4SJbqzaw/1505027098/e7093d33e3f0f52bcb7284e45581a3e8.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The CW Network cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/W0w2sbW.jpg stream=http://149.56.27.145/live/EYj7R48FJONzs3sBUDOsVg/1505023678/296e56c668bc8bd6b0044d3e4f034153.m3u8 cat=Top10
+logo=http://i.imgur.com/W0w2sbW.jpg stream=http://144.217.68.106/live/MeQrWjgkYTjdoIoa0WA9Fg/1505027017/296e56c668bc8bd6b0044d3e4f034153.m3u8 cat=Top10
 
 #EXTINF:0, The CW Network (Family) (US) (English)
-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn%3AANd9GcQO4WEZsIKEfe7n7dyKqaIxF6FwyrhqPZtz0_2hG54zFWIY0YmB49TAOhA stream=http://149.56.27.145/live/PwjbXjjkkouSEsK6whngGA/1505023662/296e56c668bc8bd6b0044d3e4f034153.m3u8 cat=Family
+logo=https://encrypted-tbn3.gstatic.com/images?q=tbn%3AANd9GcQO4WEZsIKEfe7n7dyKqaIxF6FwyrhqPZtz0_2hG54zFWIY0YmB49TAOhA stream=http://149.56.27.145/live/6Ke3o3D1rdnn0H5G9zePBg/1505027136/296e56c668bc8bd6b0044d3e4f034153.m3u8 cat=Family
 
 #EXTINF:0, The Marvelous Misadventures of Flapjack (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/5.jpg stream=http://149.56.27.145/live/eQcfGpFRJgKqxhK7oH6PhQ/1505023622/3be041f44c2035c41eea8268f238e741.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/5.jpg stream=http://149.56.27.145/live/bltu_NBjevSbeQpbTQ2FSQ/1505027100/3be041f44c2035c41eea8268f238e741.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Musketeers (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/10426177/p10426177_b_v8_ac.jpg stream=http://149.56.27.145/live/zujImU4gGHngJmxgH-15aQ/1505023623/547ec0808af5da4e91c23fcd43738efe.m3u8 cat=RandomAirTime 24/7
+logo=http://www.gstatic.com/tv/thumb/tvbanners/10426177/p10426177_b_v8_ac.jpg stream=http://149.56.27.145/live/4uoPZrHPcHkj12DcQSU5mA/1505027101/547ec0808af5da4e91c23fcd43738efe.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Office (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/07/the-office.jpg stream=http://149.56.27.145/live/Oy1DZ0BL7B13Cux15GDpKw/1505023625/e72f4545eb68c96c754f91fc01573517.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/07/the-office.jpg stream=http://144.217.68.106/live/E_wcCj7GTKgq_8TLtvTPkw/1505027102/e72f4545eb68c96c754f91fc01573517.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Outer Limits (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/509419/p509419_b_v8_aa.jpg stream=http://144.217.68.106/live/Gizt16n612FqQ6kRXShUjw/1505023626/28f550f1a6953e830a31f9ebf7af0333.m3u8 cat=RandomAirTime 24/7
+logo=http://www.gstatic.com/tv/thumb/tvbanners/509419/p509419_b_v8_aa.jpg stream=http://149.56.27.145/live/-6M-T-iP50_sqB29TiOgMA/1505027103/28f550f1a6953e830a31f9ebf7af0333.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Sopranos (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2016/02/The_sopranos.jpg stream=http://149.56.27.145/live/9gafgRnHpw-egam6YHqQSQ/1505023627/a7f53103240c2f3f1679d704eeed1892.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2016/02/The_sopranos.jpg stream=http://149.56.27.145/live/FAFpicn0k7y__HiW0dpwTA/1505027104/a7f53103240c2f3f1679d704eeed1892.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Tudors (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/eXIy5v8.jpg stream=http://149.56.27.145/live/FPQAyx1ZODI73Gy0kUuMJw/1505023628/e77bb02d647edb2099cb6ea6fd7f18df.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/eXIy5v8.jpg stream=http://149.56.27.145/live/0AgbROvS-3IohjgwiNoJiQ/1505027105/e77bb02d647edb2099cb6ea6fd7f18df.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The White Queen (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/9457004/p9457004_b_v8_ac.jpg stream=http://149.56.27.145/live/IJ8-C9YSw-7igQdLKB9vRQ/1505023630/e867325b1b9aafe0945ce0529e1c702f.m3u8 cat=RandomAirTime 24/7
+logo=http://www.gstatic.com/tv/thumb/tvbanners/9457004/p9457004_b_v8_ac.jpg stream=http://149.56.27.145/live/uWK2pDSrxcZc8iypqXzrqQ/1505027106/e867325b1b9aafe0945ce0529e1c702f.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Top Gear UK (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/KrJZ9wc.jpg stream=http://149.56.27.145/live/24gqDULlYEcZUwGjwJ2WUw/1505023632/0e3ca8eec23db7f7c0c6bf0047e22b0b.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/KrJZ9wc.jpg stream=http://149.56.27.145/live/ZcvFxfhytwjGTBZji7rSGw/1505027109/0e3ca8eec23db7f7c0c6bf0047e22b0b.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Trailer Park Boys (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/Trailer-Park-Boys.jpg stream=http://149.56.27.145/live/3GtVw1zdNCpdtRpycLDgDw/1505023631/d12d2c37e8c211f096ea78fd159643ba.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/Trailer-Park-Boys.jpg stream=http://149.56.27.145/live/fqIdJjYX8yBZ6WTqysBxfg/1505027107/d12d2c37e8c211f096ea78fd159643ba.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Twilight Zone (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/bNjlIFX.jpg stream=http://149.56.27.145/live/0H8vDdaQE7LS1sZhbcxYyw/1505023634/563f917670c376b6bd3e97bacc6d1d20.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/bNjlIFX.jpg stream=http://149.56.27.145/live/0aBMNxInXn0rRapNcpqL0w/1505027110/563f917670c376b6bd3e97bacc6d1d20.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, USA Network (Family) (US) (English)
-logo=http://www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg stream=http://149.56.27.145/live/PmsBrXfQv9VQEI9Yx3FOgQ/1505023664/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8 cat=Family
+logo=http://www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg stream=http://149.56.27.145/live/GAZ_dK0d6rDVQbYR_Asjfg/1505027138/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8 cat=Family
 
 #EXTINF:0, Universal Channel (Movie Channels) (US) (English)
 logo=https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png stream=http://149.56.27.145/live/JiKCGQanCouR2whIqWgLZg/1499285745/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8 cat=Movie Channels
@@ -385,67 +385,67 @@ logo=https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.
 logo=http://sites.psu.edu/psych256fa14/wp-content/uploads/sites/14682/2014/09/usa-network.gif stream=http://149.56.27.145/live/JiKCGQanCouR2whIqWgLZg/1499285745/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8 cat=Movie Channels
 
 #EXTINF:0, Vampire Diaries (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/9SyHjpn.jpg stream=http://149.56.27.145/live/OvgaTjsUt3OgQ3fMBLRLhQ/1505023639/52b8a5f24dc760714094959c4b5edb0f.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/9SyHjpn.jpg stream=http://144.217.68.106/live/ZHFosRJgYrVMP3J39_QtWA/1505027114/52b8a5f24dc760714094959c4b5edb0f.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Whose Line Is It Anyway? (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/12/whose-line.jpg stream=http://149.56.27.145/live/W_f-W2FRwOGL6887eLnNTA/1505023636/9185defbf5f091cd98fe4751b66f91b8.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/12/whose-line.jpg stream=http://149.56.27.145/live/T9Wp9eBUGivjH5O1bnIvoA/1505027111/9185defbf5f091cd98fe4751b66f91b8.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Willow HD (Sports) (US) (English)
 logo=http://www.x1musthaichicago.com/images/chicago-sa/logos/willow.png stream=http://144.217.68.106/live/8ZAlGRlGv3G9KmVhktCo4w/1499285735/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
 
 #EXTINF:0, Workaholics (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/24.png stream=http://144.217.68.106/live/cWU4ZDL47rHjfncB8vHA9A/1505023637/742523daef59db4b718409f46de05d0c.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/24.png stream=http://149.56.27.145/live/bB-65Ys8g4EhdeuZ2HXQtQ/1505027112/742523daef59db4b718409f46de05d0c.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, X Files (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/11779728/p11779728_b_v8_aa.jpg stream=http://149.56.27.145/live/WNXdrs31tNOu9U6Lg7ZNaA/1505023640/9fac7d4ab09566d65b4bc06f4b06ba58.m3u8 cat=RandomAirTime 24/7
+logo=http://www.gstatic.com/tv/thumb/tvbanners/11779728/p11779728_b_v8_aa.jpg stream=http://149.56.27.145/live/cEn-5r9HILATicLAjrXd5Q/1505027115/9fac7d4ab09566d65b4bc06f4b06ba58.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, 2 + 2 CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/2plus2.png stream=http://cdn.videosofsport1.pw/hls/Fws1itjUtdCwZTHqz8lI2w/1505020457/2plus2.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/2plus2.png stream=http://cdn.videosofsport1.pw/hls/t47K3_dXI91IFXqXj-o9Ag/1505024038/2plus2.m3u8 cat=Sports
 
 #EXTINF:0, ABC AI (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc02.ec.ustvnow.com/ilv10/pr/xxx/mp4:28B06WHTMUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000df88261a1e30977e35eedf2db3ae954c29217b464f02a0f4febdf11ab88& cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc02.ec.ustvnow.com/ilv10/pr/xxx/mp4:28B06WHTMUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000dfd8835019615ad9b7ae7d9503bca2f25727bc234616d60591f09203b40& cat=Entertainment
 
 #EXTINF:0, AMC AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc06.ll.ustvnow.com/ilv01/pr/xxl/smil:E1841AMCHUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041656&cf=1505185656&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiYW1jaGQifQ.ZzKWvnNpQ2mmn07bMyuI9xZDwOnFx5rGHdNes3X8KMY&h=16728dd9367f921a954fc98da21c67fe cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc06.ll.ustvnow.com/ilv01/pr/xxl/smil:E1841AMCHUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045261&cf=1505189261&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiYW1jaGQifQ.Kx1uCoyw8wV85hjcraLo9jGLKPKF_V--kYU8qVSbA-Y&h=3e8880ac74d34a20c2162f3759fb7d05 cat=Entertainment
 
 #EXTINF:0, ARENA SPORT 1 CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/arena1.png stream=http://cdn.videosofsport1.pw/hls/tcdLekCSjDsFU53ZBQJ3Ug/1505020458/arena1.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/arena1.png stream=http://cdn.videosofsport1.pw/hls/_poAonmVZjO3aAOj3XVYnQ/1505024039/arena1.m3u8 cat=Sports
 
 #EXTINF:0, ARENA SPORT 2 CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/arena2.png stream=http://cdn.videosofsport1.pw/hls/AfRw-urnFAF5dLuir4qYZQ/1505020459/arena2.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/arena2.png stream=http://cdn.videosofsport1.pw/hls/WwkVwP_a0TvkWvZpLf4CaQ/1505024040/arena2.m3u8 cat=Sports
 
 #EXTINF:0, ARENA SPORT 3 CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/arena3.png stream=http://cdn.videosofsport1.pw/hls/E74xGh6U8PzIAeqV8be-wQ/1505020459/arena3.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/arena3.png stream=http://cdn.videosofsport1.pw/hls/GeU3Hwpy3QQTWSUxxRelUQ/1505024041/arena3.m3u8 cat=Sports
 
 #EXTINF:0, Animal Planet AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc05.ll.ustvnow.com/ilv05/pr/xxl/smil:00000ANIMUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041658&cf=1505185658&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiYW5pbWFscGxhbmV0In0.FyzuTwAnFJxWbxfKwBvJbSOsyTPDJSXynnugbOP6d3g&h=d2d6a550340bcc47504a2d136601b446 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc05.ll.ustvnow.com/ilv05/pr/xxl/smil:00000ANIMUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045263&cf=1505189263&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiYW5pbWFscGxhbmV0In0.VYYd0xZwO4joo2W8tacZ4lsHdKIZV6xa9llHqDj_c4Q&h=69a44a23f1728dd0c570d0841fa4e25a cat=Entertainment
 
 #EXTINF:0, B4U MUSIC CCB Testing (Entertainment) (IN) (Hindi)
 logo=http://www.fancystreems.com/channelthumb/b4umusic.png stream=http://sklktcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/B4U_Music/B4U_Music.m3u8 cat=Entertainment
 
 #EXTINF:0, BBC America AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000BBCAUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041659&cf=1505185659&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiYmJjYSJ9.RwJwXQB1wT4X8K32gIYH2Ty5GfI9eN159Wv3K54fErU&h=ce1c334a6608106e8372eed0eff9eb96 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000BBCAUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045264&cf=1505189264&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiYmJjYSJ9.tSXfXPyJWOgvzYbgeXSjS5TxyN8BFtPxpmkwXcNBwvI&h=497aa418ee213570c0bf63ddf1f925a5 cat=Entertainment
 
 #EXTINF:0, BELARUS 5 CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/belarus5.png stream=http://cdn.videosofsport1.pw/hls/g69wuekLsE6q7TjO3FFEKg/1505020460/belarus5.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/belarus5.png stream=http://cdn.videosofsport1.pw/hls/oKI21U9yARREDaImtWYzBA/1505024042/belarus5.m3u8 cat=Sports
 
 #EXTINF:0, BOXING TV CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/boxtv.png stream=http://cdn.videosofsport1.pw/hls/oqXKB9vc3Nfx5MY90QUVtw/1505020461/boxtv.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/boxtv.png stream=http://cdn.videosofsport1.pw/hls/vhbw2hk0lndohaNqW_Uayg/1505024043/boxtv.m3u8 cat=Sports
 
 #EXTINF:0, Bollywood Masala AI (Entertainment) (US) (English)
 logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD191L720P/chunklist_b700000.m3u8 cat=Entertainment
 
 #EXTINF:0, Bravo AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc04.ll.ustvnow.com/ilv11/pr/xxl/smil:F9650BRAVUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041661&cf=1505185661&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiYnJhdm8ifQ.XOZAulKLwCqWkMNi9GltFMe0txu--Fxn-fvYQ-o4-uE&h=a3227fc06c62dd583b338c150146e6ad cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc04.ll.ustvnow.com/ilv11/pr/xxl/smil:F9650BRAVUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045266&cf=1505189266&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiYnJhdm8ifQ.57JhzZzEMjuEC5IEexhk3dspblE6y18ZuZBHWSFrGX0&h=ccb6b9ac0fa0fe4246b609a8754e50d3 cat=Entertainment
 
 #EXTINF:0, CBS AI (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc05.ec.ustvnow.com/ilv05/pr/xxx/mp4:C4706WHPHUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000df88261a1e30977e35eedf2db3ae954c29217b464f02a0f4febdf11ab88& cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc05.ec.ustvnow.com/ilv05/pr/xxx/mp4:C4706WHPHUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000dfd8835019615ad9b7ae7d9503bca2f25727bc234616d60591f09203b40& cat=Entertainment
 
 #EXTINF:0, CHANNEL V CCB Testing (Entertainment) (IN) (Hindi)
 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/250px-Channel_V_Logo.svg.png stream=http://sklktcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Channel_V/Channel_V.m3u8 cat=Entertainment
 
 #EXTINF:0, CNBC AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc06.ll.ustvnow.com/ilv10/pr/xxl/smil:ABFBDCNBCUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041663&cf=1505185663&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiY25iYyJ9.5V1qe7dnVmSu3gtkGgGy50NFXezsH7LOcvTU4a785V4&h=be70cf4780c6e83a5aba470821208057 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc06.ll.ustvnow.com/ilv10/pr/xxl/smil:ABFBDCNBCUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045267&cf=1505189267&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiY25iYyJ9.-sn-yXfDC0K_1DBQAKlUQswxWXAQMDxNNuCOhfRiNHU&h=ac95922116e5ce5567d7d37a9b5d8d39 cat=Entertainment
 
 #EXTINF:0, CNN AI (Entertainment) (US) (English)
 logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L720P/chunklist_b150000.m3u8 cat=Entertainment
@@ -454,55 +454,55 @@ logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-
 logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L720P/chunklist_b700000.m3u8 cat=Entertainment
 
 #EXTINF:0, Comdy Central AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc06.ll.ustvnow.com/ilv10/pr/xxl/smil:FF4B2COMEUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041664&cf=1505185664&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiY29tZWR5Y2VudHJhbCJ9.N_4CUusiXjcfIUJzqJTtNrLV9qlBlM4n2LTx54XY66k&h=19f63dc22386c2589cb2bf8d2764e35e cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc06.ll.ustvnow.com/ilv10/pr/xxl/smil:FF4B2COMEUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045269&cf=1505189269&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiY29tZWR5Y2VudHJhbCJ9.pbAotYPz5JP9Ss_LGkE7jjzFdPDuX6gHQRTu4RvBeek&h=2724ed98ee25c0c91a2c9bec8cc28f19 cat=Entertainment
 
 #EXTINF:0, Discovery Channel AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc05.ll.ustvnow.com/ilv05/pr/xxl/smil:D856CDISCUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041666&cf=1505185666&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiZGlzY292ZXJ5In0.sUh8QwQUF9OQp7dBehcrT2k7GkZqV49w7JrOTd8iXUk&h=8b480ab52963ac6a9d4320141bc18590 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc05.ll.ustvnow.com/ilv05/pr/xxl/smil:D856CDISCUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045271&cf=1505189271&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiZGlzY292ZXJ5In0.mldNMR5uPO4UyJLXVwog2MFkkpc0UKswxblk2Uq_wL8&h=4daaa7107890fda6b4957ee06403d23f cat=Entertainment
 
 #EXTINF:0, ESPN AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc05.ll.ustvnow.com/ilv11/pr/xxl/smil:70162ESPNUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041668&cf=1505185668&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiZXNwbiJ9.KrIA4ImZzp83jjxFoGICpTDZHljLLDRiHfNQHewfM4g&h=80b50b5470b6c19ae41047c8988b0b80 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc05.ll.ustvnow.com/ilv11/pr/xxl/smil:70162ESPNUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045272&cf=1505189272&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiZXNwbiJ9.gBZAJ7k9d7KV6EuX4Uy8oVE6xwkEvxCeZvaXW_Q833Y&h=30457622dd98493751ea18317e9d11e0 cat=Entertainment
 
 #EXTINF:0, ESPN HD AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000ESP2USTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041670&cf=1505185670&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiZXNwbnR3byJ9.NJTDn8X4g8t4W_EBbqCOfhSgeumqvqOZu0UFpEG1GpA&h=1b67f2e4e243f5dfadc1c01428972ba8 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000ESP2USTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045275&cf=1505189275&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiZXNwbnR3byJ9.cYzpG4Dl-ohmjqu03N5r7SN_mPD-eNGCkrpQfrHWtQk&h=85838d7f36d7015b6b9987134f10f6bf cat=Entertainment
 
 #EXTINF:0, EUROSPORT 2 CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/euro2.png stream=http://cdn.videosofsport1.pw/hls/liush5UGGYWNa4zgjbqarQ/1505020463/eurosport2.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/euro2.png stream=http://cdn.videosofsport1.pw/hls/DaXxXIkt7BXl7LRQWt9NaQ/1505024045/eurosport2.m3u8 cat=Sports
 
 #EXTINF:0, EUROSPORT CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/euro.png stream=http://cdn.videosofsport1.pw/hls/liush5UGGYWNa4zgjbqarQ/1505020463/eurosport.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/euro.png stream=http://cdn.videosofsport1.pw/hls/C0x0ZtfbbsY1YV2Qffzg_Q/1505024044/eurosport.m3u8 cat=Sports
 
 #EXTINF:0, FIGHT CLUB CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/fightclub.png stream=http://cdn.videosofsport1.pw/hls/tpJs2PqsftEoPQHAdHCZjQ/1505020464/fightclub.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/fightclub.png stream=http://cdn.videosofsport1.pw/hls/ZK6ZVqxrRUGiYHRjiS6O_g/1505024046/fightclub.m3u8 cat=Sports
 
 #EXTINF:0, FIRST CHANNEL CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/1tv.png stream=http://cdn.videosofsport1.pw/hls/l2sE8vLZNFr1HJoACvx99A/1505020465/1tv.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/1tv.png stream=http://cdn.videosofsport1.pw/hls/ZK6ZVqxrRUGiYHRjiS6O_g/1505024046/1tv.m3u8 cat=Sports
 
 #EXTINF:0, FOOTBALL 1 UKRAINE CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/football1ua.png stream=http://cdn.videosofsport1.pw/hls/jv60eRirX7SrVQgcGy-46Q/1505020466/football1ua.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/football1ua.png stream=http://cdn.videosofsport1.pw/hls/HltSsCEl5Q6LXE9oOZ_57w/1505024047/football1ua.m3u8 cat=Sports
 
 #EXTINF:0, FOOTBALL 2 UKRAINE CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/football2ua.png stream=http://cdn.videosofsport1.pw/hls/XVbcb7FnF3s-wi6I6J6Pkg/1505020467/football2ua.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/football2ua.png stream=http://cdn.videosofsport1.pw/hls/hxBTULA5h7mhdsWsBqkCpg/1505024048/football2ua.m3u8 cat=Sports
 
 #EXTINF:0, FOX AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc05.ll.ustvnow.com/ilv11/pr/xxl/smil:6B981FXHDUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041676&cf=1505185676&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiZnhoZCJ9.GHTuYuVHysf8KcxmUNgWD7NLS0voTq-pXZyoHCdaNYU&h=080892e24311a545359f5941b7f22a93 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc05.ll.ustvnow.com/ilv11/pr/xxl/smil:6B981FXHDUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045279&cf=1505189279&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiZnhoZCJ9.ox5IoYxzgXkuBoIsmBwqdAxTi_wO-F32D-cDZXoTbxo&h=482d8a034d6f9f9c87e79e0a4ac11e6b cat=Entertainment
 
 #EXTINF:0, FOX News AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc04.ll.ustvnow.com/ilv11/pr/xxl/smil:AB983FOXNUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041671&cf=1505185671&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiZm94bmV3cyJ9.ALLppt5sJLLZXeBvPGyZ3dol4Xv-DoHk6rkQmXziXP8&h=d68434f16e8bf2f27a98f7e74cbafedb cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc04.ll.ustvnow.com/ilv11/pr/xxl/smil:AB983FOXNUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045276&cf=1505189276&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiZm94bmV3cyJ9.IkZw5ha1Hx_tj9C6zyk3fd0wah9I-b_K69f6W34cVz0&h=acc9c10ba0ba864e1507d9d89a936cc7 cat=Entertainment
 
 #EXTINF:0, Fox AI (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ec.ustvnow.com/ilv61/pr/xxx/mp4:CE8F1WPMTUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000df88261a1e30977e35eedf2db3ae954c29217b464f02a0f4febdf11ab88& cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ec.ustvnow.com/ilv61/pr/xxx/mp4:CE8F1WPMTUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000dfd8835019615ad9b7ae7d9503bca2f25727bc234616d60591f09203b40& cat=Entertainment
 
 #EXTINF:0, FreeForm AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000FFRMUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041673&cf=1505185673&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiZnJmcm0ifQ.UHcocU6d0Cz4svuklnaonUgwhPE_L6HOnzrO2ZA18aA&h=f0b24313cf5cf9ab808167141203779a cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000FFRMUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045278&cf=1505189278&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoiZnJmcm0ifQ.xYWrx5dpAwrYiZzjYsJ8H_YJ7gCsXUbpkkko5wRpqkA&h=db1c36f1418f4450689f4a66315e1b62 cat=Entertainment
 
 #EXTINF:0, KAZSPORT CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/kazsport.png stream=http://cdn.videosofsport1.pw/hls/XVbcb7FnF3s-wi6I6J6Pkg/1505020467/kazsport.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/kazsport.png stream=http://cdn.videosofsport1.pw/hls/uRnyCBzG1TFGhf2SADGiZg/1505024049/kazsport.m3u8 cat=Sports
 
 #EXTINF:0, KHL CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/khl.png stream=http://cdn.videosofsport1.pw/hls/ztU_g6YNl7AfMbFYSGopzw/1505020468/khl.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/khl.png stream=http://cdn.videosofsport1.pw/hls/S0YAJQkgUei4fmAoI09Fyw/1505024050/khl.m3u8 cat=Sports
 
 #EXTINF:0, KHL HD CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/khlhd.png stream=http://cdn.videosofsport1.pw/hls/qrUDn0mkkVDy4aVaWd3vHw/1505020469/khlhd.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/khlhd.png stream=http://cdn.videosofsport1.pw/hls/C8wBAUD-P7IkySaJSX9FIA/1505024050/khlhd.m3u8 cat=Sports
 
 #EXTINF:0, LIFE OK CCB Testing (Entertainment) (IN) (Hindi)
 logo=https://upload.wikimedia.org/wikipedia/en/f/fc/Life_OK_channel_logo.png stream=http://sklktcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Life_OK_HD/Life_OK_HD.m3u8 cat=Entertainment
@@ -511,58 +511,58 @@ logo=https://upload.wikimedia.org/wikipedia/en/f/fc/Life_OK_channel_logo.png str
 logo=http://www.newtvworld.com/Images/Movies-OK-logo-300x212.jpg stream=http://sklktcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_OK/Movies_OK.m3u8 cat=Entertainment
 
 #EXTINF:0, MSNBC AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000MSNBUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041677&cf=1505185677&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoibXNuYmMifQ.FsReSQ2VloKsTLQZBJhlvleere-j9eDPn1E27H9zluA&h=981ecfd56367fea329bc89defd319e6c cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000MSNBUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045281&cf=1505189281&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoibXNuYmMifQ.wdC6XoWKmKTv1TPtRBChzJWLIx-uFJti7qSdrnzx4FE&h=ac2def604c70709edd9400262dfa302b cat=Entertainment
 
 #EXTINF:0, My9 AI (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc06.ec.ustvnow.com/ilv10/pr/xxx/mp4:7A68DWHVLUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000df88261a1e30977e35eedf2db3ae954c29217b464f02a0f4febdf11ab88& cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc06.ec.ustvnow.com/ilv10/pr/xxx/mp4:7A68DWHVLUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000dfd8835019615ad9b7ae7d9503bca2f25727bc234616d60591f09203b40& cat=Entertainment
 
 #EXTINF:0, NBA TV CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/nba.png stream=http://cdn.videosofsport1.pw/hls/aR82QwdXeVOTehbcTQTd5g/1505020194/nba.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/nba.png stream=http://cdn.videosofsport1.pw/hls/zowfzTeIr_ZJy4-nyR881w/1505024051/nba.m3u8 cat=Sports
 
 #EXTINF:0, NBC AI (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc05.ec.ustvnow.com/ilv05/pr/xxx/mp4:F7C5AWGALUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000df88261a1e30977e35eedf2db3ae954c29217b464f02a0f4febdf11ab88& cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc05.ec.ustvnow.com/ilv05/pr/xxx/mp4:F7C5AWGALUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000dfd8835019615ad9b7ae7d9503bca2f25727bc234616d60591f09203b40& cat=Entertainment
 
 #EXTINF:0, NBCSN AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000NBCSUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041681&cf=1505185681&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoibmJjc25oZCJ9.Kfk35VkqTThKTufeCb8bwqE1SQfbVV4hkn6ylWwFTJk&h=d2b35fb39dd0505a295298b873c9cd25 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000NBCSUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045284&cf=1505189284&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoibmJjc25oZCJ9.FyYJatdJhCvtGKRTKgYddzzSZ71tWpUdbmDVmMXn4zQ&h=c6488d0d1bb195984cfe8d84e129f45e cat=Entertainment
 
 #EXTINF:0, Nat Geo AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc04.ll.ustvnow.com/ilv11/pr/xxl/smil:A4AC7NATGUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041679&cf=1505185679&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoibmF0Z2VvIn0.PTsUvYgGWOPH3oKYEhGiRV_ZMehIOaG9yzucaUi9Ubo&h=294ddddb228cd49e58a991dbec8f15b0 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc04.ll.ustvnow.com/ilv11/pr/xxl/smil:A4AC7NATGUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045282&cf=1505189282&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoibmF0Z2VvIn0.GUxUPJgXO4K71oLTDoJH-SZ8Uue7L_lkxEb1vgeCEHA&h=395bbe2451697443f8d8397a156eb778 cat=Entertainment
 
 #EXTINF:0, Nickelodeon AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc02.ll.ustvnow.com/ilv10/pr/xxl/smil:00000NICKUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041682&cf=1505185682&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoibmlja2Vsb2Rlb24ifQ.zsGZ0UvzaKkAHVZ35jv_Uzh0ehd83CuGbN42IUAhbmY&h=6c0f1d6b447c5666d42509a5b8fa3e15 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc02.ll.ustvnow.com/ilv10/pr/xxl/smil:00000NICKUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045285&cf=1505189285&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoibmlja2Vsb2Rlb24ifQ.q9Swx-7DYberLw2FDeZ2ARxHz2Pkx8Q9icbEhQEycM4&h=b17999ef50c002b8f8a20ed13fb9c5f6 cat=Entertainment
 
 #EXTINF:0, PBS AI (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc02.ec.ustvnow.com/ilv11/pr/xxx/mp4:F28E1WPSUUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000df88261a1e30977e35eedf2db3ae954c29217b464f02a0f4febdf11ab88& cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc02.ec.ustvnow.com/ilv11/pr/xxx/mp4:F28E1WPSUUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000dfd8835019615ad9b7ae7d9503bca2f25727bc234616d60591f09203b40& cat=Entertainment
 
 #EXTINF:0, PREMIER SPORT CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/premiersport.png stream=http://cdn.videosofsport1.pw/hls/zGEwYRx0GA5dOewU6Fxuww/1505020195/premiersport.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/premiersport.png stream=http://cdn.videosofsport1.pw/hls/qYiBiiXxaOPlbJZJO2nFjQ/1505024052/premiersport.m3u8 cat=Sports
 
 #EXTINF:0, Pogo TV AI (Entertainment) (US) (English)
 logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD29L720P/playlist.m3u8 cat=Entertainment
 
 #EXTINF:0, SETANTA SPORT CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/setantasport.png stream=http://cdn.videosofsport1.pw/hls/5YTr65fOSF8dJSHMt16Kww/1505020197/setantasport.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/setantasport.png stream=http://cdn.videosofsport1.pw/hls/ZPe7W3X4B5NVEbvtEYiMSw/1505024053/setantasport.m3u8 cat=Sports
 
 #EXTINF:0, SNDNC AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000SNDNUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041686&cf=1505185686&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoic25kbmMifQ.W_TYN1kEHQ4BzfL6U4OHlJlkF0i9CovaKROdl4kHJYg&h=8231545b9c2bf49b0fea2d444ffeead4 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000SNDNUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045288&cf=1505189288&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoic25kbmMifQ.L4Wl5xqTSqECXKd4fef5hRuY6NSrGPlLsF-H1rf549Y&h=eb39add45b02d57e2631384c168bf82d cat=Entertainment
 
 #EXTINF:0, SPORT 1 UKRAINE CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/sport1ua.png stream=http://cdn.videosofsport1.pw/hls/7w_RPAQHJ1mcx60NmQ2fZA/1505020198/sport1ua.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/sport1ua.png stream=http://cdn.videosofsport1.pw/hls/kspnki8eqDy1NXxGhFvrLA/1505024054/sport1ua.m3u8 cat=Sports
 
 #EXTINF:0, SPORT 2 UKRAINE CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/sport1ua.png stream=http://cdn.videosofsport1.pw/hls/aMojjoT0GU7gvGYXiwqEvA/1505020199/sport1ua.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/sport1ua.png stream=http://cdn.videosofsport1.pw/hls/fn6rrrMxUjJlGACXMG6MjA/1505024054/sport1ua.m3u8 cat=Sports
 
 #EXTINF:0, SPORT KLUB 2 CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/sportklub2.png stream=http://cdn.videosofsport1.pw/hls/EYkC-NjSPhA72LyxoDsodw/1505020203/sportklub2.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/sportklub2.png stream=http://cdn.videosofsport1.pw/hls/Ej6XOWB1ZIoQV6h9ICz3LA/1505024056/sportklub2.m3u8 cat=Sports
 
 #EXTINF:0, SPORT KLUB 3 CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/sportklub3.png stream=http://cdn.videosofsport1.pw/hls/mKWlZbyj5fwD-iuLFRGeTQ/1505020204/sportklub3.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/sportklub3.png stream=http://cdn.videosofsport1.pw/hls/AvAA1u6IVgBfAGodvHMERQ/1505024057/sportklub3.m3u8 cat=Sports
 
 #EXTINF:0, SPORT KLUB CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/sportklub.png stream=http://cdn.videosofsport1.pw/hls/_Grb4BD0tUhm8EtRDqSCuw/1505020201/sportklub.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/sportklub.png stream=http://cdn.videosofsport1.pw/hls/koGx89SAgz7X2jpKTFO0bw/1505024055/sportklub.m3u8 cat=Sports
 
 #EXTINF:0, SPORTS 1 CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/sport1ru.png stream=http://cdn.videosofsport1.pw/hls/xq2VgkbCCyjPW9qn8CV1Sg/1505020207/sport1ru.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/sport1ru.png stream=http://cdn.videosofsport1.pw/hls/FuZ0WH9YfnN5VAsia6ncVw/1505024058/sport1ru.m3u8 cat=Sports
 
 #EXTINF:0, STAR GOLD CCB Testing (Entertainment) (IN) (Hindi)
 logo=http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319 stream=http://sklktcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Gold_HD/Star_Gold_HD.m3u8 cat=Entertainment
@@ -574,58 +574,58 @@ logo=http://vignette3.wikia.nocookie.net/logopedia/images/f/fc/StarPlus_2010.png
 logo=http://tvimages.burrp.com/images/channels2/entertainment/utsav.png stream=http://sklktcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Utsav/Star_Utsav.m3u8 cat=Entertainment
 
 #EXTINF:0, SUPERSPORT 2 CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/supersport2.png stream=http://cdn.videosofsport1.pw/hls/MO1qNjmPRySzKiJzFw359Q/1505020210/supersport2.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/supersport2.png stream=http://cdn.videosofsport1.pw/hls/ZAvy_4Axr_DWf_jjxyV1rw/1505024060/supersport2.m3u8 cat=Sports
 
 #EXTINF:0, SUPERSPORT 3 CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/supersport3.png stream=http://cdn.videosofsport1.pw/hls/j_FQNkbVhg4g4DLgr2jo0Q/1505020211/supersport3.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/supersport3.png stream=http://cdn.videosofsport1.pw/hls/WJGB7wk3gIRIUQPrPWiKlg/1505024060/supersport3.m3u8 cat=Sports
 
 #EXTINF:0, SUPERSPORT 4 CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/supersport4.png stream=http://cdn.videosofsport1.pw/hls/G7i8uzQF1UBUVocQh1d6vg/1505020212/supersport4.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/supersport4.png stream=http://cdn.videosofsport1.pw/hls/opIqWHLaGD78QE6HpEGRAw/1505024061/supersport4.m3u8 cat=Sports
 
 #EXTINF:0, SUPERSPORT CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/supersport.png stream=http://cdn.videosofsport1.pw/hls/VGg2TnYRA64QpxDehQci-Q/1505020208/supersport.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/supersport.png stream=http://cdn.videosofsport1.pw/hls/6ES3jnPd-HqRpFSkYxgMLg/1505024059/supersport.m3u8 cat=Sports
 
 #EXTINF:0, Spike AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc06.ll.ustvnow.com/ilv10/pr/xxl/smil:31F76SPIKUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041684&cf=1505185684&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoic3Bpa2V0diJ9.APzWQzWCAF5x6kIGvFqJG3ZAo_ml-EeH7jDZfSSAuLM&h=a29c64db8d58d7bd0732926f80723c31 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc06.ll.ustvnow.com/ilv10/pr/xxl/smil:31F76SPIKUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045287&cf=1505189287&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoic3Bpa2V0diJ9.DpQF6HFV9IN6rOMmH8-vuQgXHlXYqQQcgxbKpUoJ5G8&h=4d19f6287b8870316d0269ae4c99423d cat=Entertainment
 
 #EXTINF:0, Sport Russia CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/sportrussia.png stream=http://cdn.videosofsport1.pw/hls/b9bXXbvIcDN756y9pzfWdw/1505020205/sportrussia.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/sportrussia.png stream=http://cdn.videosofsport1.pw/hls/iDE3IC0Ld2fxPUAD8W1KpQ/1505024057/sportrussia.m3u8 cat=Sports
 
 #EXTINF:0, Syfy AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:70F66SYFYUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041687&cf=1505185687&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoic3lmeSJ9.2slH5jyOc99GdW691ulowMhFpJHmuo7CNIgRka-soC4&h=c84c09e1da5cf7859d16eb49ef892d8f cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:70F66SYFYUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045290&cf=1505189290&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoic3lmeSJ9.RHZw0nsQLmH-T-39xC9_barnMJ-WmfPcMULyJczKZLQ&h=8ab3d249c1251c6546f0387d77bb155c cat=Entertainment
 
 #EXTINF:0, S?????? ????? PLUS CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/setantaplus.png stream=http://cdn.videosofsport1.pw/hls/4HN6ltLD1LuscxW6akIu5g/1505020214/setantaplus.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/setantaplus.png stream=http://cdn.videosofsport1.pw/hls/GhG1nAqxhCz1cNUaJlElCA/1505024062/setantaplus.m3u8 cat=Sports
 
 #EXTINF:0, TLC AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000TLCHUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041689&cf=1505185689&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoidGxjaGQifQ.ITkMp85LsY3FuuMPQ-eUgddjTWdqj5XWet-JvqN6tvI&h=6f1dfd0a06920a4320b9257c8791faf6 cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc01.ll.ustvnow.com/ilv61/pr/xxl/smil:00000TLCHUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045292&cf=1505189292&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoidGxjaGQifQ.42hRaySJIOY8Gi_WJeFCwlVqMgW_lcR1nPMvLsgJ3MM&h=7d48db14f65bf3cc9988eeebeacdbfe1 cat=Entertainment
 
 #EXTINF:0, TRK UKRAINE CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/trk.png stream=http://cdn.videosofsport1.pw/hls/0QUJzc7XOg_vtHRqh2kucg/1505020215/trk.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/trk.png stream=http://cdn.videosofsport1.pw/hls/GzwVNmq2b6g1mmbUYYZ90Q/1505024063/trk.m3u8 cat=Sports
 
 #EXTINF:0, TRT SPOR CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/tspor.png stream=http://cdn.videosofsport1.pw/hls/a4mG-Sn5uH04stJ_104mew/1505020216/tspor.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/tspor.png stream=http://cdn.videosofsport1.pw/hls/YkJ7T4kO36RYGdHP6NfN5w/1505024064/tspor.m3u8 cat=Sports
 
 #EXTINF:0, TV CHANNEL FOOTBALL CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/tkfootball.png stream=http://cdn.videosofsport1.pw/hls/VyUeppkVuD6AKQgUxzZEfg/1505020218/tkfootball.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/tkfootball.png stream=http://cdn.videosofsport1.pw/hls/ABpvHz6b9AeNbiriLfkvrA/1505024065/tkfootball.m3u8 cat=Sports
 
 #EXTINF:0, The CW AI (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc04.ec.ustvnow.com/ilv11/pr/xxx/mp4:AABA2WLYHUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000df88261a1e30977e35eedf2db3ae954c29217b464f02a0f4febdf11ab88& cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc04.ec.ustvnow.com/ilv11/pr/xxx/mp4:AABA2WLYHUSTVNOW1/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f849000dfd8835019615ad9b7ae7d9503bca2f25727bc234616d60591f09203b40& cat=Entertainment
 
 #EXTINF:0, USA AI Testing (Entertainment) (US) (English)
-logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc02.ll.ustvnow.com/ilv11/pr/xxl/smil:04481USAHUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505041691&cf=1505185691&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY0IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoidXNhaGQifQ.OvzJC-uaz-Jrgm4msuW7J7ZDi3IarZ2Z5r3-DRaYclE&h=7ac3ad2ea97da29fb2c698abf19bac7a cat=Entertainment
+logo=http://s3.amazonaws.com/kidzworld_photo/images/20161110/0a2d8b08-35c9-4e9f-aa2b-68e24771bade/arrival-amy-adams-alien.jpg stream=https://ssl-proxy.my-addr.org/myaddrproxy.php/http://ilvc02.ll.ustvnow.com/ilv11/pr/xxl/smil:04481USAHUSTVNOW/playlist.m3u8?p=29&ip=51.254.4.202&ci=28800&cd=300&e=1505045293&cf=1505189293&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTZmNmY4IiwidCI6Im8yMXpiYTB2N21jNWlhcHlhMXRjbWZrZWx0dWUiLCJpIjoiMzNmZTA0Y2EiLCJzIjoidXNhaGQifQ.2LPbltY7nLp82btjemB9POYZl3Jef1L2B5TmGAEiq4U&h=2eb74b17b59bc5c225d4683e4cc2045f cat=Entertainment
 
 #EXTINF:0, VIASAT FOOTBALL CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/viasatfootball.png stream=http://cdn.videosofsport1.pw/hls/qS6jdMH7u2AJQWCSJdeC0w/1505020219/viasatfootball.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/viasatfootball.png stream=http://cdn.videosofsport1.pw/hls/44LMggyEeN-1KbPLRtcbPw/1505024066/viasatfootball.m3u8 cat=Sports
 
 #EXTINF:0, VIASAT HOCKEY CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/vhockey.png stream=http://cdn.videosofsport1.pw/hls/3YaCOmLuCxcZZQg_kgMp4w/1505020220/vhockey.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/vhockey.png stream=http://cdn.videosofsport1.pw/hls/xAydoxQisFPR1_MlUJK4Wg/1505024067/vhockey.m3u8 cat=Sports
 
 #EXTINF:0, VIASAT SPORT BALTIC CCB Testing (Sports) (RU) (Russian)
 logo=http://2streamking.co/images/channels/sportbaltic.png stream=http://cdn.videosofsport1.pw/hls/VaCBXjLr5su0FV6WBRcXZA/1498956262/vhockey.m3u8 cat=Sports
 
 #EXTINF:0, VIASAT SPORT CCB Testing (Sports) (RU) (Russian)
-logo=http://2streamking.co/images/channels/viasatsporteast.png stream=http://cdn.videosofsport1.pw/hls/vexeA_bqfkQ5iS-A_XOH9Q/1505020222/viasatsporteast.m3u8 cat=Sports
+logo=http://2streamking.co/images/channels/viasatsporteast.png stream=http://cdn.videosofsport1.pw/hls/LI3tmy8INqkZvlXKNmut_g/1505024067/viasatsporteast.m3u8 cat=Sports
 
 #EXTINF:0, 10_TV HcCB (Entertainment) (IND) (Telugu)
 logo=http://i.imgur.com/dNI3Hhd.jpg stream=http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/10_TV/10_TV_800.m3u8 cat=Entertainment
@@ -1881,6 +1881,9 @@ logo=http://mega.atresmedia.com/static/images/logo_mega_rst.png stream=http://a3
 #EXTINF:0, Merci TV (Entertainment) (IR) (Arabic)
 logo=http://yahlive.com/sites/default/files/channel_logo/Merci_TV.png stream=http://63.237.48.23/ios/MERCI_TV/MERCI_TV.m3u8 cat=Entertainment
 
+#EXTINF:0, NBC (Entertainment) (US) (English)
+logo=http://images.classicalite.com/data/images/full/9141/50j4fzvh_400x400-jpeg.jpg stream=http://54.167.242.196/server/play/wcauxctg/4326000/prog.m3u8?anv=1456710262072&X-Anvato-Adst-Auth=ivfc2mbOPyMqNTxP4OBT35wh2Ko5DOSn1tlw1WkYh+4+Mm+WnjsDX8WoVbGOR0fc cat=Entertainment
+
 #EXTINF:0, NTV Mir (Entertainment) (RU) (Russian)
 logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOa8k_P7DSdM1N4mz_j58SVvapWrccoiCTJnO-8-7F-MWqhiuKxGV85A0 stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/544/index.m3u8 cat=Entertainment
 
@@ -1892,9 +1895,6 @@ logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfO006f8uFUBSKY36hktM
 
 #EXTINF:0, Ocean TV (Entertainment) (RU) (Russian)
 logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcST7uetwDzxJVWc3id9g6knK72Gq27PCgbuQWoFC3Pso7f-2xvC28u0mg stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/703/index.m3u8 cat=Entertainment
-
-#EXTINF:0, Peravia Vision (Entertainment) (ES) (Spanish)
-logo=http://dominicaninternet.com/servicios/images/peravia_vision_logo_domint2013.png stream=http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8 cat=Entertainment
 
 #EXTINF:0, Perviy HD (Entertainment) (RU) (Russian)
 logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRYM6aucecB0sdNjYHhNbV6n4F1dGv2PlV8ks4n6b5uk2opo7aVZUSFw stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/204/index.m3u8 cat=Entertainment
